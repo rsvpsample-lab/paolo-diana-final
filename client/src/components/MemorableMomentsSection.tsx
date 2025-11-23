@@ -15,7 +15,10 @@ const MemorableMomentsSection = () => {
     { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799619/prenup5_e79yl3.jpg', fullSrc: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799619/prenup5_e79yl3.jpg', alt: "Prenup photo 6", height: "h-72" },
     { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup1_kcy16y.jpg', fullSrc: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup1_kcy16y.jpg', alt: "Prenup photo 7", height: "h-96" },
     { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup4_o4rurf.jpg', fullSrc: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup4_o4rurf.jpg', alt: "Prenup photo 8", height: "h-80" },
-    { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup3_etwudu.jpg', fullSrc: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup3_etwudu.jpg', alt: "Prenup photo 9", height: "h-72" }
+    { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup3_etwudu.jpg', fullSrc: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799617/prenup3_etwudu.jpg', alt: "Prenup photo 9", height: "h-72" },
+    { src: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763910350/20230629_112411_fe7ncf.jpg', fullSrc: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763910350/20230629_112411_fe7ncf.jpg', alt: "Prenup photo 10", height: "h-64" },
+    { src: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763910350/20231030_155425_qpnksb.jpg', fullSrc: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763910350/20231030_155425_qpnksb.jpg', alt: "Prenup photo 11", height: "h-80" },
+    { src: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763910351/20231101_151020_jozcxt.jpg', fullSrc: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763910351/20231101_151020_jozcxt.jpg', alt: "Prenup photo 12", height: "h-72" }
   ];
 
   return (
