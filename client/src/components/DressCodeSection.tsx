@@ -55,7 +55,7 @@ const DressCodeSection = () => {
               {/* Image */}
               <div className="h-64 md:h-auto overflow-hidden">
                 <img 
-                  src="https://res.cloudinary.com/dvrvykbf6/image/upload/v1763823655/8e89e4b5-5011-4501-8fce-9cfcba05dfa1_d1ipki.png" 
+                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763905068/d7036481-0b85-4895-86a1-2ab7a3c1a4af.png" 
                   alt="Principal Sponsors Attire"
                   className="w-full h-full object-cover"
                   data-testid="img-principal-sponsors"
