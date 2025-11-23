@@ -207,14 +207,16 @@ const DressCodeSection = () => {
                 <div className="mt-6 pt-6 border-t border-primary/20">
                   <p className="text-sm font-semibold text-foreground mb-3">Female Color Motif</p>
                   <div className="flex gap-3">
-                    <div className="text-center">
-                      <div 
-                        className="w-12 h-12 rounded-lg border-2 border-border shadow-md hover:scale-105 transition-transform duration-300"
-                        style={{ backgroundColor: '#5F84A2' }}
-                        data-testid="color-guests-0"
-                      ></div>
-                      <p className="text-xs text-foreground mt-1">Dusty Blue</p>
-                    </div>
+                    {dustyBlueColors.map((colorItem, index) => (
+                      <div key={index} className="text-center">
+                        <div 
+                          className="w-12 h-12 rounded-lg border-2 border-border shadow-md hover:scale-105 transition-transform duration-300"
+                          style={{ backgroundColor: colorItem.color }}
+                          data-testid={`color-guests-${index}`}
+                        ></div>
+                        <p className="text-xs text-foreground mt-1">{colorItem.name}</p>
+                      </div>
+                    ))}
                   </div>
                 </div>
               </div>
