@@ -196,7 +196,7 @@ const DressCodeSection = () => {
                   
                   <div>
                     <h4 className="font-semibold text-foreground mb-2">For Male:</h4>
-                    <p className="text-sm text-foreground/80">Long sleeve polo in shades of dusty blue</p>
+                    <p className="text-sm text-foreground/80">Long sleeve polo in shades of blue</p>
                     <p className="text-sm text-foreground/80 font-semibold">OR</p>
                     <p className="text-sm text-foreground/80">Long sleeve barong with long sleeve undershirt</p>
                     <p className="text-sm text-foreground/80">Black slacks</p>
