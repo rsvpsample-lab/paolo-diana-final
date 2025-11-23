@@ -74,7 +74,7 @@ const StorySection = () => {
           {/* Right Side - Image */}
           <div className="order-first lg:order-last">
             <img
-              src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763907685/20230809_170035_1_oacw0k.jpg"
+              src="https://res.cloudinary.com/djsdvte4u/image/upload/v1763799619/prenup5_e79yl3.jpg"
               alt="Our Love Story"
               className="w-full h-auto rounded-2xl shadow-lg"
               data-testid="img-story-background"
