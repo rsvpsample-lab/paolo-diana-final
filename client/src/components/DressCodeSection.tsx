@@ -191,7 +191,7 @@ const DressCodeSection = () => {
                 <div className="space-y-4 mb-6">
                   <div>
                     <h4 className="font-semibold text-foreground mb-2">For Female:</h4>
-                    <p className="text-sm text-foreground/80">Long gown in shades of dusty blue</p>
+                    <p className="text-sm text-foreground/80">Long gown in shades of  blue</p>
                   </div>
                   
                   <div>
