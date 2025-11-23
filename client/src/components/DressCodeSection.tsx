@@ -132,14 +132,29 @@ const DressCodeSection = () => {
                     <p className="text-sm text-foreground/80">Black slacks</p>
                   </div>
                 </div>
+
+                {/* Dusty Blue Color Palette */}
+                <div className="mt-6 pt-6 border-t border-primary/20">
+                  <p className="text-sm font-semibold text-foreground mb-3">Female Color Motif</p>
+                  <div className="flex gap-3">
+                    <div className="text-center">
+                      <div 
+                        className="w-12 h-12 rounded-lg border-2 border-border shadow-md hover:scale-105 transition-transform duration-300"
+                        style={{ backgroundColor: '#5F84A2' }}
+                        data-testid="color-entourage-0"
+                      ></div>
+                      <p className="text-xs text-foreground mt-1">Dusty Blue</p>
+                    </div>
+                  </div>
+                </div>
               </div>
               
               {/* Image */}
-              <div className="h-96 md:h-full overflow-hidden order-1 md:order-2">
+              <div className="h-64 md:h-auto overflow-hidden order-1 md:order-2">
                 <img 
-                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763908325/b99dfcb5-6442-435b-bdc7-eea9a6e8bcef.png" 
+                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763904502/5ef2748e-22b5-4d79-94aa-7ff97be94dd6.png" 
                   alt="Entourage Attire"
-                  className="w-full h-full object-contain"
+                  className="w-full h-full object-cover"
                   data-testid="img-entourage"
                 />
               </div>
@@ -185,6 +200,21 @@ const DressCodeSection = () => {
                     <p className="text-sm text-foreground/80 font-semibold">OR</p>
                     <p className="text-sm text-foreground/80">Long sleeve barong with long sleeve undershirt</p>
                     <p className="text-sm text-foreground/80">Black slacks</p>
+                  </div>
+                </div>
+
+                {/* Dusty Blue Color Palette */}
+                <div className="mt-6 pt-6 border-t border-primary/20">
+                  <p className="text-sm font-semibold text-foreground mb-3">Female Color Motif</p>
+                  <div className="flex gap-3">
+                    <div className="text-center">
+                      <div 
+                        className="w-12 h-12 rounded-lg border-2 border-border shadow-md hover:scale-105 transition-transform duration-300"
+                        style={{ backgroundColor: '#5F84A2' }}
+                        data-testid="color-guests-0"
+                      ></div>
+                      <p className="text-xs text-foreground mt-1">Dusty Blue</p>
+                    </div>
                   </div>
                 </div>
               </div>
