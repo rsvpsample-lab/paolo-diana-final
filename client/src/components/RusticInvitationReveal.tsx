@@ -9,7 +9,7 @@ interface RusticInvitationRevealProps {
 const RusticInvitationReveal = ({ animationsEnabled }: RusticInvitationRevealProps) => {
   const polaroids = [
     { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799618/groom_vt1vsh.jpg', alt: 'groom' },
-    { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799619/prenup10_bziodk.jpg', alt: 'couple' },
+    { src: 'https://res.cloudinary.com/dhzisg93l/image/upload/v1763904024/20230809_171801_1_1_qeosfs.jpg', alt: 'couple' },
     { src: 'https://res.cloudinary.com/djsdvte4u/image/upload/v1763799508/bride_eenwde.jpg', alt: 'bride' }
   ];
 
