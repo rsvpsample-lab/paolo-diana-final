@@ -152,7 +152,7 @@ const DressCodeSection = () => {
               {/* Image */}
               <div className="h-64 md:h-auto overflow-hidden order-1 md:order-2">
                 <img 
-                  src="https://res.cloudinary.com/dvrvykbf6/image/upload/v1763825260/bb6e032e-bb07-4de6-a6dc-65e3de1141b0.png" 
+                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763904502/5ef2748e-22b5-4d79-94aa-7ff97be94dd6.png" 
                   alt="Entourage Attire"
                   className="w-full h-full object-cover"
                   data-testid="img-entourage"
