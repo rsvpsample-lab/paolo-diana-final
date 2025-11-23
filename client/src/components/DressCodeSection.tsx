@@ -44,6 +44,24 @@ const DressCodeSection = () => {
           </p>
         </motion.div>
 
+        {/* Preview Image */}
+        <motion.div 
+          className="mb-16"
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, ease: "easeOut", delay: 0.6 }}
+          data-testid="dresscode-preview"
+        >
+          <div className="bg-white rounded-2xl shadow-xl overflow-hidden">
+            <img 
+              src="https://res.cloudinary.com/dvrvykbf6/image/upload/v1763823722/948a5374-031b-4469-9b03-d0c489198610.png"
+              alt="Dress Code Preview"
+              className="w-full h-auto"
+              data-testid="img-dresscode-preview"
+            />
+          </div>
+        </motion.div>
+
         {/* Principal Sponsors */}
         <motion.div 
           className="mb-12"
