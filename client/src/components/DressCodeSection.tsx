@@ -13,10 +13,10 @@ const DressCodeSection = () => {
   ];
 
   const beigeColors = [
-    { name: 'Taupe', color: '#A89080', hex: '#A89080' },
-    { name: 'Beige', color: '#D4C5B0', hex: '#D4C5B0' },
-    { name: 'Cream Beige', color: '#E5D7C3', hex: '#E5D7C3' },
-    { name: 'Nude', color: '#F5EBE0', hex: '#F5EBE0' }
+    { name: 'Warm Taupe', color: '#A89080', hex: '#A89080' },
+    { name: 'Sand', color: '#D4C5B0', hex: '#D4C5B0' },
+    { name: 'Ivory', color: '#E5D7C3', hex: '#E5D7C3' },
+    { name: 'Champagne', color: '#F5EBE0', hex: '#F5EBE0' }
   ];
 
   return (
