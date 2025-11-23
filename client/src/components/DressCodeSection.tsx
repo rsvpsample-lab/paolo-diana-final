@@ -57,7 +57,7 @@ const DressCodeSection = () => {
               {/* Image */}
               <div className="h-64 md:h-auto overflow-hidden">
                 <img 
-                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763905068/d7036481-0b85-4895-86a1-2ab7a3c1a4af.png" 
+                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763909583/9e8d73e8-54ca-4088-beec-e91c22f5d8e1.png" 
                   alt="Principal Sponsors Attire"
                   className="w-full h-full object-cover"
                   data-testid="img-principal-sponsors"
@@ -175,7 +175,7 @@ const DressCodeSection = () => {
               {/* Image */}
               <div className="h-64 md:h-auto overflow-hidden">
                 <img 
-                  src="https://res.cloudinary.com/dvrvykbf6/image/upload/v1763825299/6ef09ad9-fcd0-467f-b18c-b11e082ac61b.png" 
+                  src="https://res.cloudinary.com/dhzisg93l/image/upload/v1763909649/b3a29603-2452-4f81-89ff-bf58cac428f6.png" 
                   alt="Guests Attire"
                   className="w-full h-full object-cover"
                   data-testid="img-guests"
